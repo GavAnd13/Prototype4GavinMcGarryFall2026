@@ -93,7 +93,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 821ee37f5dfaafc4a9eeef9809be6d3e, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: c3428dcda02bcda48a7075b3d90177f6, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -75633,7 +75633,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -112549,9 +112549,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1225332199}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 303.5, y: 201.9}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -100.5, y: -25.100006}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1795147216
@@ -134892,10 +134892,10 @@ SceneRoots:
   m_Roots:
   - {fileID: 410087041}
   - {fileID: 832575519}
-  - {fileID: 8452614137644628449}
+  - {fileID: 1989705344}
   - {fileID: 1453614435}
   - {fileID: 2061521836}
-  - {fileID: 1989705344}
+  - {fileID: 8452614137644628449}
+  - {fileID: 1741076604}
   - {fileID: 1225332199}
   - {fileID: 1337943760}
-  - {fileID: 1741076604}
